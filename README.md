@@ -1,10 +1,12 @@
 # Creating Masonry layout with CSS grid.
 
 ## overview.
-Inspired by the amazing stuff people are creating on the web with the masonry layout I have also used the masonry layout to create a image gallery for endangered species on earth. I could only include a few from the many animals out there that are facing extinction.
+I have recently came across this youtube video by kevin Powell on his youtube channel and he was talking about this amazing layout called the masonry layout or waterfall layout. So a month or so after watching this video I finally sat down to work on a fun project with this layout and I created this photo gallery of endangered species.
+
+What is a masonry layout? A masonry layout aka *waterfall layout* (metaphor for how content flows down the page like a waterfall) is a pattern where content is packed together like a brick or stone wall (hence it's name "masonry"). The contents are usually arranged in fixed columns and no clear rows which gives it this eyecatching view of randomness. 
 
 ## Learning.
-I learned to create a masonry layout and in the process also got to explore the CSS `border-image` property. I also got to learn about the endnagered species, it was saddenning to see the number of animal species there are which are at the brink of extinction.
+This project was a great way for me to learn the masonry layout and making this project I also got to read on the various endangered species on earth.
 
 ## Tech stack.
 - HTML.
